@@ -5,6 +5,7 @@ import Home from './components/Home'
 import Container from './components/Container'
 import Footer from './components/Footer'
 import Header from './components/Header'
+import Employee from './components/Employee'
 
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
       <Home/>
       <Container />
       <Footer /> 
+	    <Employee /> 
       
     </div>
   );
