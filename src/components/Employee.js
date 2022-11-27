@@ -111,7 +111,7 @@ const Employee = () => {
                                         <p className = "card-text"><b>Designation: </b>{employee.designation}</p>
 									</div>														
 							</div>
-        					))
+        					)) 
                         }
                     </div>    
                 </div>
